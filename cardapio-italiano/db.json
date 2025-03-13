@@ -1,0 +1,306 @@
+{
+    "entradas": [
+        {
+            "id": 1,
+            "nome": "Bruschetta al Pomodoro",
+            "valor": "25,00",
+            "descricao": "Fatias de pão italiano crocante cobertas com tomate fresco, manjericão, alho e azeite de oliva.",
+            "logo": "restaurante_italiano/icones/entradas/entrada1.jpg",
+            "imgs": [
+                "restaurante_italiano/fotos_card/entrada1/entradaf1_1.jpeg",
+                "restaurante_italiano/fotos_card/entrada1/entradaf1_2.jpeg",
+                "restaurante_italiano/fotos_card/entrada1/entradaf1_3.jpeg"
+            ],
+            "tamanho":"serve 1 pessoa"
+        },
+        {
+            "id": 2,
+            "nome": "Carpaccio di Manzo",
+            "valor": "35,00",
+            "descricao": "Finas fatias de carne bovina crua, temperadas com azeite de oliva, limão, alcaparras e lascas de parmesão.",
+            "logo": "restaurante_italiano/icones/entradas/entrada2.jpg",
+            "imgs": [
+                "restaurante_italiano/fotos_card/entrada2/entradaf2_1.jpeg",
+                "restaurante_italiano/fotos_card/entrada2/entradaf2_2.jpeg",
+                "restaurante_italiano/fotos_card/entrada2/entradaf2_3.jpeg"
+            ],
+            "tamanho":"serve 2 pessoas"
+        },
+        {
+            "id": 3,
+            "nome": "Arancini",
+            "valor": "28,00",
+            "descricao": "Bolinhos de risoto recheados com mussarela, empanados e fritos até ficarem dourados e crocantes.",
+            "logo": "restaurante_italiano/icones/entradas/entrada3.jpg",
+            "imgs": [
+                "restaurante_italiano/fotos_card/entrada3/entradaf3_1.jpeg",
+                "restaurante_italiano/fotos_card/entrada3/entradaf3_2.jpeg",
+                "restaurante_italiano/fotos_card/entrada3/entradaf3_3.jpeg"
+            ],
+            "tamanho":"serve 2 pessoas"
+        }
+    ],
+    "pratoPrincipal": [
+        {
+            "id": 1,
+            "nome": "Spaghetti alla Carbonara",
+            "valor": "45,00",
+            "descricao": "Espaguete ao molho cremoso de ovos, queijo parmesão, pancetta e pimenta preta.",
+            "logo": "restaurante_italiano/icones/principais/principal1.jpg",
+            "imgs": [
+                "restaurante_italiano/fotos_card/principal1/principalf1_1.jpeg",
+                "restaurante_italiano/fotos_card/principal1/principalf1_2.jpeg",
+                "restaurante_italiano/fotos_card/principal1/principalf1_3.jpeg"
+            ],
+            "tamanho":"serve 1 pessoa"
+        },
+        {
+            "id": 2,
+            "nome": "Lasagna alla Bolognese",
+            "valor": "50,00",
+            "descricao": "Camadas de massa fresca, molho bolonhesa, molho bechamel e queijo parmesão gratinado.",
+            "logo": "restaurante_italiano/icones/principais/principal2.jpg",
+            "imgs": [
+                "restaurante_italiano/fotos_card/principal2/principalf2_1.jpeg",
+                "restaurante_italiano/fotos_card/principal2/principalf2_2.jpeg",
+                "restaurante_italiano/fotos_card/principal2/principalf2_3.jpeg"
+            ],
+            "tamanho":"serve 2 pessoas"
+        },
+        {
+            "id": 3,
+            "nome": "Risotto ai Funghi",
+            "valor": "48,00",
+            "descricao": "Risoto cremoso preparado com arroz arbóreo, cogumelos frescos, vinho branco e parmesão.",
+            "logo": "restaurante_italiano/icones/principais/principal3.jpg",
+            "imgs": [
+                "restaurante_italiano/fotos_card/principal3/principalf3_1.jpeg",
+                "restaurante_italiano/fotos_card/principal3/principalf3_2.jpeg",
+                "restaurante_italiano/fotos_card/principal3/principalf3_3.jpeg"
+            ],
+            "tamanho":"serve 1 pessoa"
+        },
+        {
+            "id": 4,
+            "nome": "Pollo alla Parmigiana",
+            "valor": "52,00",
+            "descricao": "Peito de frango empanado e frito, coberto com molho de tomate e queijo mussarela, servido com espaguete ao alho e óleo.",
+            "logo": "restaurante_italiano/icones/principais/principal4.jpg",
+            "imgs": [
+                "restaurante_italiano/fotos_card/principal4/principalf4_1.jpeg",
+                "restaurante_italiano/fotos_card/principal4/principalf4_2.jpeg",
+                "restaurante_italiano/fotos_card/principal4/principalf4_3.jpeg"
+            ],
+            "tamanho":"serve 1 pessoa"
+        }
+    ],
+    "sobremesas": [
+        {
+            "id": 1,
+            "nome": "Tiramisu",
+            "valor": "22,00",
+            "descricao": "Camadas de biscoito champanhe embebido em café, creme de mascarpone e cacau em pó.",
+            "logo": "restaurante_italiano/icones/sobremesas/sobremesa1.jpg",
+            "imgs": [
+                "restaurante_italiano/fotos_card/sobremesa1/sobremesaf1_1.jpeg",
+                "restaurante_italiano/fotos_card/sobremesa1/sobremesaf1_2.jpeg",
+                "restaurante_italiano/fotos_card/sobremesa1/sobremesaf1_3.jpeg"
+            ],
+            "tamanho":"serve 1 pessoa"
+        },
+        {
+            "id": 2,
+            "nome": "Panna Cotta",
+            "valor": "20,00",
+            "descricao": "Sobremesa italiana feita de creme de leite, açúcar e baunilha, acompanhada de calda de frutas vermelhas.",
+            "logo": "restaurante_italiano/icones/sobremesas/sobremesa2.jpg",
+            "imgs": [
+                "restaurante_italiano/fotos_card/sobremesa2/sobremesaf2_1.jpeg",
+                "restaurante_italiano/fotos_card/sobremesa2/sobremesaf2_2.jpeg",
+                "restaurante_italiano/fotos_card/sobremesa2/sobremesaf2_3.jpeg"
+            ],
+            "tamanho":"serve 1 pessoa"
+        },
+        {
+            "id": 3,
+            "nome": "Cannoli Siciliani",
+            "valor": "24,00",
+            "descricao": "Massa crocante recheada com creme de ricota doce, pedacinhos de chocolate e frutas cristalizadas.",
+            "logo": "restaurante_italiano/icones/sobremesas/sobremesa3.jpg",
+            "imgs": [
+                "restaurante_italiano/fotos_card/sobremesa3/sobremesaf3_1.jpeg",
+                "restaurante_italiano/fotos_card/sobremesa3/sobremesaf3_2.jpeg",
+                "restaurante_italiano/fotos_card/sobremesa3/sobremesaf3_3.jpeg"
+            ],
+            "tamanho":"serve 2 pessoas"
+        }
+    ],
+    "vinhos": [
+        {
+            "id": 1,
+            "nome": "Chianti Classico",
+            "valor": "85,00",
+            "valorTaca": "20,00",
+            "descricao": "Vinho tinto encorpado da região da Toscana, com notas de cereja e especiarias.",
+            "logo": "restaurante_italiano/icones/bebidas/bebida1.jpg",
+            "imgs": [
+                "restaurante_italiano/fotos_card/bebida1/bebidaf1_1.jpeg",
+                "restaurante_italiano/fotos_card/bebida1/bebidaf1_2.jpeg",
+                "restaurante_italiano/fotos_card/bebida1/bebidaf1_3.jpeg"
+            ],
+            "tamanho":" (garrafa 750ml/taça  150ml)."
+        },
+        {
+            "id": 2,
+            "nome": "Prosecco",
+            "valor": "75,00",
+            "valorTaca": "18,00",
+            "descricao": "Vinho espumante italiano, leve e refrescante, com notas de frutas cítricas e florais.",
+            "logo": "restaurante_italiano/icones/bebidas/bebida2.jpg",
+            "imgs": [
+                "restaurante_italiano/fotos_card/bebida2/bebidaf2_1.jpeg",
+                "restaurante_italiano/fotos_card/bebida2/bebidaf2_2.jpeg",
+                "restaurante_italiano/fotos_card/bebida2/bebidaf2_3.jpeg"
+            ],
+            "tamanho":" (garrafa 750ml/taça  150ml)."
+        },
+        {
+            "id": 3,
+            "nome": "Pinot Grigio",
+            "valor": "70,00",
+            "valorTaca": "17,00",
+            "descricao": "Vinho branco seco e fresco, com aromas de maçã verde e pera.",
+            "logo": "restaurante_italiano/icones/bebidas/bebida3.jpg",
+            "imgs": [
+                "restaurante_italiano/fotos_card/bebida3/bebidaf3_1.jpeg",
+                "restaurante_italiano/fotos_card/bebida3/bebidaf3_2.jpeg",
+                "restaurante_italiano/fotos_card/bebida3/bebidaf3_3.jpeg"
+            ],
+            "tamanho":" (garrafa 750ml/taça  150ml)."
+        }
+    ],
+    "cervejas": [
+        {
+            "id": 1,
+            "nome": "Peroni",
+            "valor": "15,00",
+            "descricao": "Cerveja lager italiana, leve e refrescante, com notas de malte e lúpulo.",
+            "logo": "restaurante_italiano/icones/bebidas/bebida4.jpg",
+            "imgs": [
+                "restaurante_italiano/fotos_card/bebida4/bebidaf4_1.jpeg",
+                "restaurante_italiano/fotos_card/bebida4/bebidaf4_2.jpeg",
+                "restaurante_italiano/fotos_card/bebida4/bebidaf4_3.jpeg"
+            ],
+            "tamanho":" lata 350ml"
+        },
+        {
+            "id": 2,
+            "nome": "Moretti",
+            "valor": "16,00",
+            "descricao": "Cerveja lager italiana com um sabor equilibrado de malte e lúpulo, perfeita para acompanhar pratos italianos.",
+            "logo": "restaurante_italiano/icones/bebidas/bebida5.jpg",
+            "imgs": [
+                "restaurante_italiano/fotos_card/bebida5/bebidaf5_1.jpeg",
+                "restaurante_italiano/fotos_card/bebida5/bebidaf5_2.jpeg",
+                "restaurante_italiano/fotos_card/bebida5/bebidaf5_3.jpeg"
+            ],
+            "tamanho":"garrafa 600ml"
+            
+        }
+    ],
+    "coqueteis": [
+        {
+            "id": 1,
+            "nome": "Aperol Spritz",
+            "valor": "25,00",
+            "descricao": "Aperol, prosecco e um toque de água com gás, servido com gelo e uma fatia de laranja.",
+            "logo": "restaurante_italiano/icones/bebidas/bebida6.jpg",
+            "imgs": [
+                "restaurante_italiano/fotos_card/bebida6/bebidaf6_1.jpeg",
+                "restaurante_italiano/fotos_card/bebida6/bebidaf6_2.jpeg",
+                "restaurante_italiano/fotos_card/bebida6/bebidaf6_3.jpeg"
+            ],
+            "tamanho":"taça  150ml."
+        },
+        {
+            "id": 2,
+            "nome": "Negroni",
+            "valor": "28,00",
+            "descricao": "Gin, Campari e vermute doce, servido com gelo e uma rodela de laranja.",
+            "logo": "restaurante_italiano/icones/bebidas/bebida7.jpg",
+            "imgs": [
+                "restaurante_italiano/fotos_card/bebida7/bebidaf7_1.jpeg",
+                "restaurante_italiano/fotos_card/bebida7/bebidaf7_2.jpeg",
+                "restaurante_italiano/fotos_card/bebida7/bebidaf7_3.jpeg"
+            ],
+            "tamanho":" taça  150ml."
+        },
+        {
+            "id": 3,
+            "nome": "Bellini",
+            "valor": "26,00",
+            "descricao": "Prosecco e purê de pêssego, uma combinação clássica e refrescante.",
+            "logo": "restaurante_italiano/icones/bebidas/bebida8.jpg",
+            "imgs": [
+               "restaurante_italiano/fotos_card/bebida8/bebidaf8_1.jpeg",
+                "restaurante_italiano/fotos_card/bebida8/bebidaf8_2.jpeg",
+                "restaurante_italiano/fotos_card/bebida8/bebidaf8_3.jpeg"
+            ],
+            "tamanho":" taça  150ml."
+        }
+    ],
+    "semAlcool": [
+        {
+            "id": 1,
+            "nome": "Limonata",
+            "valor": "12,00",
+            "descricao": "Limonada fresca feita com limões sicilianos, água com gás e um toque de hortelã.",
+            "logo": "restaurante_italiano/icones/bebidas/bebida9.jpg",
+            "imgs": [
+                "restaurante_italiano/fotos_card/bebida9/bebidaf9_1.jpeg",
+                "restaurante_italiano/fotos_card/bebida9/bebidaf9_2.jpeg",
+                "restaurante_italiano/fotos_card/bebida9/bebidaf9_3.jpeg"
+            ],
+            "tamanho":"serve 1 pessoa"
+        },
+        {
+            "id": 2,
+            "nome": "Aranciata",
+            "valor": "12,00",
+            "descricao": "Refrigerante natural de laranja, leve e refrescante.",
+            "logo": "restaurante_italiano/icones/bebidas/bebida10.jpg",
+            "imgs": [
+                "restaurante_italiano/fotos_card/bebida10/bebidaf10_1.jpeg",
+                "restaurante_italiano/fotos_card/bebida10/bebidaf10_2.jpeg",
+                "restaurante_italiano/fotos_card/bebida10/bebidaf10_3.jpeg"
+            ],
+            "tamanho":"serve 1 pessoa"
+        },
+        {
+            "id": 3,
+            "nome": "Água Mineral",
+            "valor": "6,00",
+            "descricao": "Água mineral natural ou com gás.",
+            "logo": "restaurante_italiano/icones/bebidas/bebida11.jpg",
+            "imgs": [
+                "restaurante_italiano/fotos_card/bebida11/bebidaf11_1.jpeg",
+                "restaurante_italiano/fotos_card/bebida11/bebidaf11_2.jpeg",
+                "restaurante_italiano/fotos_card/bebida11/bebidaf11_3.jpeg"
+            ],
+            "tamanho":"serve 1 pessoa"
+        },
+        {
+            "id": 4,
+            "nome": "Refrigerantes",
+            "valor": "8,00",
+            "descricao": "Coca-Cola, Coca-Cola Zero, Fanta e Sprite.",
+            "logo": "restaurante_italiano/icones/bebidas/bebida12.jpg",
+            "imgs": [
+                "restaurante_italiano/fotos_card/bebida12/bebidaf12_1.jpeg",
+                "restaurante_italiano/fotos_card/bebida12/bebidaf12_2.jpeg",
+                "restaurante_italiano/fotos_card/bebida12/bebidaf12_3.jpeg"
+            ],
+            "tamanho":"serve 1 pessoa"
+        }
+    ]
+}

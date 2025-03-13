@@ -1,0 +1,65 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Aloja-Light";
+    src: url('./fonte/Aloja-Light.woff');
+}
+
+@font-face {
+  font-family: 'Oswald';
+  src: url('./fonte/oswald.regular.ttf') format('truetype');
+}
+
+.card-f-fundo{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+    background-color: rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    animation: fadeInBackground 1s forwards;
+    justify-content: center;
+    align-items: center;
+}
+
+@keyframes fadeInBackground {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+
+.text-shadow{
+    color: rgb(233, 75, 53);/* Cor do texto */
+    text-shadow: 
+      2px 2px 0 rgb(107, 24, 13), 
+      -2px -1px 0  rgb(107, 24, 13);
+      font-size: 50px;
+  }
+  @media (max-width: 640px) {
+  .text-shadow{
+    font-size: 40px
+  } ;
+  }
+
+  .formatacao-texto{
+    font-size: 60px;
+  }
+
+ .cor-borda{
+
+  border: 1px solid rgba(255, 255, 255,.4);
+ }
+
+  @media (min-width:640px) {
+    .cor-borda{
+      border: none;
+     }
+  }

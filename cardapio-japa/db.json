@@ -1,0 +1,237 @@
+{
+  "rodizio": [
+    {
+      "nome": "Rodizio Completo",
+      "valor": "99,00",
+      "descricao": "inclui todos os itens do menu",
+      "logo": "japones/icones/pratos/rodizio/rodizio1.webp",
+      "img": "japones/fotos_cardapio/pratos/rodizio/rodizio1.jpg"
+    }
+  ],
+  "entradas": [
+    {
+      "nome": "Edamame",
+      "valor": "5,00",
+      "descricao": "Vagem de soja cozida com sal",
+      "logo": "japones/icones/pratos/entradas/entrada1.webp",
+      "img": "japones/fotos_cardapio/pratos/entradas/entrada1.jpg"
+    },
+    {
+      "nome": "Sunomono",
+      "valor": "18,00",
+      "descricao": "Salada de pepino agridoce com frutos do mar",
+      "logo": "japones/icones/pratos/entradas/entrada2.webp",
+      "img": "japones/fotos_cardapio/pratos/entradas/entrada2.jpg"
+    },
+    {
+      "nome": "Shimeji na Manteiga",
+      "valor": "22,00",
+      "descricao": "Cogumelos shimeji salteados na manteiga",
+      "logo": "japones/icones/pratos/entradas/entrada3.webp",
+      "img": "japones/fotos_cardapio/pratos/entradas/entrada3.jpg"
+    },
+    {
+      "nome": "Gyoza",
+      "valor": "20,00",
+      "descricao": "4 unidades de pastelzinho japonês recheado com carne ou legumes",
+      "logo": "japones/icones/pratos/entradas/entrada4.webp",
+      "img": "japones/fotos_cardapio/pratos/entradas/entrada4.jpg"
+    }
+  ],
+  "temaki": [
+    {
+      "nome": "Temaki de Salmão",
+      "valor": "18,00",
+      "descricao": "Temaki de Salmão",
+      "logo": "japones/icones/pratos/temakis/temaki1.webp",
+      "img": "japones/fotos_cardapio/pratos/temakis/temaki1.jpg"
+    },
+    {
+      "nome": "Temaki de Atum",
+      "valor": "20,00",
+      "descricao": "Temaki de Atum",
+      "logo": "japones/icones/pratos/temakis/temaki2.webp",
+      "img": "japones/fotos_cardapio/pratos/temakis/temaki2.jpg"
+    },
+    {
+      "nome": "Temaki Califórnia",
+      "valor": "16,00",
+      "descricao": "Kani, manga, pepino e gergelim",
+      "logo": "japones/icones/pratos/temakis/temaki3.webp",
+      "img": "japones/fotos_cardapio/pratos/temakis/temaki3.jpg"
+    },
+    {
+      "nome": "Temaki Skin",
+      "valor": "15,00",
+      "descricao": "Pele de salmão crocante com cebolinha",
+      "logo": "japones/icones/pratos/temakis/temaki4.webp",
+      "img": "japones/fotos_cardapio/pratos/temakis/temaki4.jpg"
+    }
+  ],
+  "sushi_sashimi": [
+    {
+      "nome": "Sashimi de Salmão",
+      "valor": "30,00",
+      "descricao": "8 fatias",
+      "logo": "japones/icones/pratos/sushis/sushi1.webp",
+      "img": "japones/fotos_cardapio/pratos/sushis/sushi1.jpg"
+    },
+    {
+      "nome": "Sashimi de Atum",
+      "valor": "35,00",
+      "descricao": "8 fatias",
+      "logo": "japones/icones/pratos/sushis/sushi2.webp",
+      "img": "japones/fotos_cardapio/pratos/sushis/sushi2.jpg"
+    },
+    {
+      "nome": "Nigiri de Salmão",
+      "valor": "14,00",
+      "descricao": "2 unidades",
+      "logo": "japones/icones/pratos/sushis/sushi3.webp",
+      "img": "japones/fotos_cardapio/pratos/sushis/sushi3.jpg"
+    },
+    {
+      "nome": "Nigiri de Atum",
+      "valor": "16,00",
+      "descricao": "2 unidades",
+      "logo": "japones/icones/pratos/sushis/sushi4.webp",
+      "img": "japones/fotos_cardapio/pratos/sushis/sushi4.jpg"
+    },
+    {
+      "nome": "Nigiri de Kani",
+      "valor": "12,00",
+      "descricao": "2 unidades",
+      "logo": "japones/icones/pratos/sushis/sushi5.webp",
+      "img": "japones/fotos_cardapio/pratos/sushis/sushi5.jpg"
+    }
+  ],
+  "rolls": [
+    {
+      "nome": "Hossomaki de Salmão",
+      "valor": "20,00",
+      "descricao": "6 unidades",
+      "logo": "japones/icones/pratos/rolls/roll1.webp",
+      "img": "japones/fotos_cardapio/pratos/rolls/roll1.jpg"
+    },
+    {
+      "nome": "Hossomaki de Atum",
+      "valor": "22,00",
+      "descricao": "6 unidades",
+      "logo": "japones/icones/pratos/rolls/roll2.webp",
+      "img": "japones/fotos_cardapio/pratos/rolls/roll2.jpg"
+    },
+    {
+      "nome": "Uramaki Califórnia",
+      "valor": "28,00",
+      "descricao": "8 unidades",
+      "logo": "japones/icones/pratos/rolls/roll3.webp",
+      "img": "japones/fotos_cardapio/pratos/rolls/roll3.jpg"
+    },
+    {
+      "nome": "Uramaki Filadélfia",
+      "valor": "30,00",
+      "descricao": "Salmão, cream cheese, cebolinha (8 unidades)",
+      "logo": "japones/icones/pratos/rolls/roll4.webp",
+      "img": "japones/fotos_cardapio/pratos/rolls/roll4.jpg"
+    },
+    {
+      "nome": "Uramaki Ebiten",
+      "valor": "32,00",
+      "descricao": "Camarão empanado, cream cheese, pepino (8 unidades)",
+      "logo": "japones/icones/pratos/rolls/roll5.webp",
+      "img": "japones/fotos_cardapio/pratos/rolls/roll5.jpg"
+    }
+  ],
+  "pratos_quentes": [
+    {
+      "nome": "Yakissoba de Frango ou Carne",
+      "valor": "35,00",
+      "descricao": "Yakissoba de Frango ou Carne",
+      "logo": "japones/icones/pratos/quentes/quente1.webp",
+      "img": "japones/fotos_cardapio/pratos/quentes/quente1.jpg"
+    },
+    {
+      "nome": "Teppan Yaki de Salmão",
+      "valor": "40,00",
+      "descricao": "Salmão grelhado com legumes",
+      "logo": "japones/icones/pratos/quentes/quente2.webp",
+      "img": "japones/fotos_cardapio/pratos/quentes/quente2.jpg"
+    },
+    {
+      "nome": "Tempurá de Legumes",
+      "valor": "25,00",
+      "descricao": "Tempurá de Legumes",
+      "logo": "japones/icones/pratos/quentes/quente3.webp",
+      "img": "japones/fotos_cardapio/pratos/quentes/quente3.jpg"
+    },
+    {
+      "nome": "Tempurá de Camarão",
+      "valor": "45,00",
+      "descricao": "6 unidades",
+      "logo": "japones/icones/pratos/quentes/quente4.webp",
+      "img": "japones/fotos_cardapio/pratos/quentes/quente4.jpg"
+    }
+  ],
+  "sobremesas": [
+    {
+      "nome": "Mochi",
+      "valor": "12,00",
+      "descricao": "Bolinho de arroz recheado, vários sabores",
+      "logo": "japones/icones/pratos/sobremesas/sobremesa1.webp",
+      "img": "japones/fotos_cardapio/pratos/sobremesas/sobremesa1.jpg"
+    },
+    {
+      "nome": "Dorayaki",
+      "valor": "14,00",
+      "descricao": "Panqueca recheada com doce de feijão",
+      "logo": "japones/icones/pratos/sobremesas/sobremesa2.webp",
+      "img": "japones/fotos_cardapio/pratos/sobremesas/sobremesa2.jpg"
+    },
+    {
+      "nome": "Sorvete de Chá Verde",
+      "valor": "16,00",
+      "descricao": "Sorvete de Chá Verde",
+      "logo": "japones/icones/pratos/sobremesas/sobremesa3.webp",
+      "img": "japones/fotos_cardapio/pratos/sobremesas/sobremesa3.jpg"
+    }
+  ],
+  "sem_alcool": [
+    {
+      "nome": "Água Mineral",
+      "valor": "5,00",
+      "descricao": "Água Mineral",
+      "logo": "japones/icones/bebidas/sem_alcool/bebida1.webp",
+      "img": "japones/fotos_cardapio/bebidas/sem_alcool/bebida1.jpeg"
+    },
+    {
+      "nome": "Refrigerante",
+      "valor": "7,00",
+      "descricao": "Refrigerante",
+      "logo": "japones/icones/bebidas/sem_alcool/bebida2.webp",
+      "img": "japones/fotos_cardapio/bebidas/sem_alcool/bebida2.jpeg"
+    },
+    {
+      "nome": "Suco Natural",
+      "valor": "10,00",
+      "descricao": "Suco Natural",
+      "logo": "japones/icones/bebidas/sem_alcool/bebida3.webp",
+      "img": "japones/fotos_cardapio/bebidas/sem_alcool/bebida3.jpg"
+    }
+  ],
+  "com_alcool": [
+    {
+      "nome": "Saquê",
+      "valor": "18,00",
+      "descricao": "Dose de Saquê",
+      "logo": "japones/icones/bebidas/com_alcool/bebida1.webp",
+      "img": "japones/fotos_cardapio/bebidas/com_alcool/bebida1.jpg"
+    },
+    {
+      "nome": "Cerveja Japonesa",
+      "valor": "20,00",
+      "descricao": "Cerveja Japonesa",
+      "logo": "japones/icones/bebidas/com_alcool/bebida2.png",
+      "img": "japones/fotos_cardapio/bebidas/com_alcool/bebida2.jpeg"
+    }
+  ]
+}

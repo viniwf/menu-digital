@@ -1,0 +1,330 @@
+{
+    "RodizioPizza": [
+        {
+            "id": 1,
+            "nome": "Rodizio Completo",
+            "valor": "59,00",
+            "descricao": "Inclui todos os sabores de pizzas e sobremesas.",
+            "logo": "pizzaria/icones/pizzas/rodizio/rodizio.webp",
+            "imgs": [
+                "pizzaria/fotos_cardapio/rodizio/rodizio1.jpg",
+                "pizzaria/fotos_cardapio/rodizio/rodizio2.jpg",
+                "pizzaria/fotos_cardapio/rodizio/rodizio3.jpg"
+            ]
+        }
+    ],
+    "PizzasTradicionais": [
+        {
+            "id": 1,
+            "nome": "Mussarela",
+            "valor": "35,00",
+            "descricao": "Molho de tomate, mussarela e orégano.",
+            "logo": "pizzaria/icones/pizzas/pizzas_tradicionais/pizza1.png",
+            "imgs": [
+                "pizzaria/fotos_cardapio/pizzas/pizzas_tradicionais/mussarela/tradicional1.jpg",
+                "pizzaria/fotos_cardapio/pizzas/pizzas_tradicionais/mussarela/tradicional2.jpg",
+                "pizzaria/fotos_cardapio/pizzas/pizzas_tradicionais/mussarela/tradicional3.jpg"
+            ]
+        },
+        {
+            "id": 2,
+            "nome": "Calabresa",
+            "valor": "35,00",
+            "descricao": "Molho de tomate, calabresa, cebola e orégano.",
+            "logo": "pizzaria/icones/pizzas/pizzas_tradicionais/pizza2.webp",
+            "imgs": [
+                "pizzaria/fotos_cardapio/pizzas/pizzas_tradicionais/calabresa/tradicional1.jpg",
+                "pizzaria/fotos_cardapio/pizzas/pizzas_tradicionais/calabresa/tradicional2.jpg",
+                "pizzaria/fotos_cardapio/pizzas/pizzas_tradicionais/calabresa/tradicional3.jpg"
+            ]
+        },
+        {
+            "id": 3,
+            "nome": "Portuguesa",
+            "valor": "35,00",
+            "descricao": "Molho de tomate, presunto, ovos, cebola, pimentão, azeitona e mussarela.",
+            "logo": "pizzaria/icones/pizzas/pizzas_tradicionais/pizza3.webp",
+            "imgs": [
+                "pizzaria/fotos_cardapio/pizzas/pizzas_tradicionais/portuguesa/tradicional1.jpg",
+                "pizzaria/fotos_cardapio/pizzas/pizzas_tradicionais/portuguesa/tradicional2.jpg",
+                "pizzaria/fotos_cardapio/pizzas/pizzas_tradicionais/portuguesa/tradicional3.jpg"
+            ]
+        },
+        {
+            "id": 4,
+            "nome": "Marguerita",
+            "valor": "35,00",
+            "descricao": "Molho de tomate, mussarela, rodelas de tomate, manjericão e orégano.",
+            "logo": "pizzaria/icones/pizzas/pizzas_tradicionais/pizza4.webp",
+            "imgs": [
+                "pizzaria/fotos_cardapio/pizzas/pizzas_tradicionais/marguerita/tradicional1.jpg",
+                "pizzaria/fotos_cardapio/pizzas/pizzas_tradicionais/marguerita/tradicional2.jpg",
+                "pizzaria/fotos_cardapio/pizzas/pizzas_tradicionais/marguerita/tradicional3.jpg"
+            ]
+        }
+    ],
+    "PizzasEspeciais": [
+        {
+            "id": 1,
+            "nome": "Frango com Catupiry",
+            "valor": "45,00",
+            "descricao": "Molho de tomate, frango desfiado, catupiry e milho.",
+            "logo": "pizzaria/icones/pizzas/pizzas_especiais/pizza1.webp",
+            "imgs": [
+                "pizzaria/fotos_cardapio/pizzas/pizzas_especiais/frango_catupiry/especial1.jpg",
+                "pizzaria/fotos_cardapio/pizzas/pizzas_especiais/frango_catupiry/especial2.jpg",
+                "pizzaria/fotos_cardapio/pizzas/pizzas_especiais/frango_catupiry/especial3.jpg"
+            ]
+        },
+        {
+            "id": 2,
+            "nome": "Quatro Queijos",
+            "valor": "45,00",
+            "descricao": "Molho de tomate, mussarela, provolone, gorgonzola e parmesão.",
+            "logo": "pizzaria/icones/pizzas/pizzas_especiais/pizza2.png",
+            "imgs": [
+                "pizzaria/fotos_cardapio/pizzas/pizzas_especiais/quatro_queijos/especial1.jpg",
+                "pizzaria/fotos_cardapio/pizzas/pizzas_especiais/quatro_queijos/especial2.jpg",
+                "pizzaria/fotos_cardapio/pizzas/pizzas_especiais/quatro_queijos/especial3.jpg"
+            ]
+        },
+        {
+            "id": 3,
+            "nome": "Baiana",
+            "valor": "45,00",
+            "descricao": "Molho de tomate, calabresa, pimenta, cebola, ovos e mussarela.",
+            "logo": "pizzaria/icones/pizzas/pizzas_especiais/pizza3.webp",
+            "imgs": [
+                "pizzaria/fotos_cardapio/pizzas/pizzas_especiais/baiana/especial1.jpg",
+                "pizzaria/fotos_cardapio/pizzas/pizzas_especiais/baiana/especial2.jpg",
+                "pizzaria/fotos_cardapio/pizzas/pizzas_especiais/baiana/especial3.jpg"
+            ]
+        },
+        {
+            "id": 4,
+            "nome": "Pepperoni",
+            "valor": "45,00",
+            "descricao": "Molho de tomate, pepperoni, mussarela e orégano.",
+            "logo": "pizzaria/icones/pizzas/pizzas_especiais/pizza4.webp",
+            "imgs": [
+                "pizzaria/fotos_cardapio/pizzas/pizzas_especiais/pepperoni/especial1.jpg",
+                "pizzaria/fotos_cardapio/pizzas/pizzas_especiais/pepperoni/especial2.jpg",
+                "pizzaria/fotos_cardapio/pizzas/pizzas_especiais/pepperoni/especial3.jpg"
+            ]
+        }
+    ],
+    "PizzasPremium": [
+        {
+            "id": 1,
+            "nome": "Camarão",
+            "valor": "55,00",
+            "descricao": "Molho de tomate, camarão, alho poró, mussarela e catupiry.",
+            "logo": "pizzaria/icones/pizzas/pizzas_premium/pizza1.webp",
+            "imgs": [
+                "pizzaria/fotos_cardapio/pizzas/pizzas_premium/camarao/premium1.jpg",
+                "pizzaria/fotos_cardapio/pizzas/pizzas_premium/camarao/premium2.jpg",
+                "pizzaria/fotos_cardapio/pizzas/pizzas_premium/camarao/premium3.jpg"
+            ]
+        },
+        {
+            "id": 2,
+            "nome": "Parma",
+            "valor": "55,00",
+            "descricao": "Molho de tomate, presunto de Parma, rúcula, tomate seco e parmesão.",
+            "logo": "pizzaria/icones/pizzas/pizzas_premium/pizza2.webp",
+            "imgs": [
+                "pizzaria/fotos_cardapio/pizzas/pizzas_premium/parma/premium1.jpg",
+                "pizzaria/fotos_cardapio/pizzas/pizzas_premium/parma/premium2.jpg",
+                "pizzaria/fotos_cardapio/pizzas/pizzas_premium/parma/premium3.jpg"
+            ]
+        },
+        {
+            "id": 3,
+            "nome": "Funghi",
+            "valor": "55,00",
+            "descricao": "Molho de tomate, cogumelos variados, mussarela e azeite trufado.",
+            "logo": "pizzaria/icones/pizzas/pizzas_premium/pizza3.webp",
+            "imgs": [
+                "pizzaria/fotos_cardapio/pizzas/pizzas_premium/funghi/premium1.jpg",
+                "pizzaria/fotos_cardapio/pizzas/pizzas_premium/funghi/premium2.jpg",
+                "pizzaria/fotos_cardapio/pizzas/pizzas_premium/funghi/premium3.jpg"
+            ]
+        },
+        {
+            "id": 4,
+            "nome": "Picanha",
+            "valor": "55,00",
+            "descricao": "Molho de tomate, picanha fatiada, cebola caramelizada, mussarela e orégano.",
+            "logo": "pizzaria/icones/pizzas/pizzas_premium/pizza4.webp",
+            "imgs": [
+                "pizzaria/fotos_cardapio/pizzas/pizzas_premium/picanha/premium1.jpg",
+                "pizzaria/fotos_cardapio/pizzas/pizzas_premium/picanha/premium2.jpg",
+                "pizzaria/fotos_cardapio/pizzas/pizzas_premium/picanha/premium3.jpg"
+            ]
+        }
+    ],
+    "PizzasDoces": [
+        {
+            "id": 1,
+            "nome": "Chocolate",
+            "valor": "35,00",
+            "descricao": "Chocolate ao leite derretido e granulado.",
+            "logo": "pizzaria/icones/pizzas/pizzas_doces/pizza1.webp",
+            "imgs": [
+                "pizzaria/fotos_cardapio/pizzas/pizzas_doces/chocolate/doce1.jpg",
+                "pizzaria/fotos_cardapio/pizzas/pizzas_doces/chocolate/doce2.jpg",
+                "pizzaria/fotos_cardapio/pizzas/pizzas_doces/chocolate/doce3.jpg"
+            ]
+        },
+        {
+            "id": 2,
+            "nome": "Banana com Canela",
+            "valor": "35,00",
+            "descricao": "Banana, açúcar, canela e mussarela.",
+            "logo": "pizzaria/icones/pizzas/pizzas_doces/pizza2.webp",
+            "imgs": [
+                "pizzaria/fotos_cardapio/pizzas/pizzas_doces/banana/doce1.jpg",
+                "pizzaria/fotos_cardapio/pizzas/pizzas_doces/banana/doce2.jpg",
+                "pizzaria/fotos_cardapio/pizzas/pizzas_doces/banana/doce3.jpg"
+            ]
+        },
+        {
+            "id": 3,
+            "nome": "Romeu e Julieta",
+            "valor": "45,00",
+            "descricao": "Goiabada e catupiry.",
+            "logo": "pizzaria/icones/pizzas/pizzas_doces/pizza3.webp",
+            "imgs": [
+                "pizzaria/fotos_cardapio/pizzas/pizzas_doces/romeu_julieta/doce1.jpg",
+                "pizzaria/fotos_cardapio/pizzas/pizzas_doces/romeu_julieta/doce2.jpg",
+                "pizzaria/fotos_cardapio/pizzas/pizzas_doces/romeu_julieta/doce3.jpg"
+            ]
+        },
+        {
+            "id": 4,
+            "nome": "Morango com Chocolate",
+            "valor": "45,00",
+            "descricao": "Morango, chocolate ao leite derretido e granulado.",
+            "logo": "pizzaria/icones/pizzas/pizzas_doces/pizza4.webp",
+            "imgs": [
+                "pizzaria/fotos_cardapio/pizzas/pizzas_doces/morango/doce1.jpg",
+                "pizzaria/fotos_cardapio/pizzas/pizzas_doces/morango/doce2.jpg",
+                "pizzaria/fotos_cardapio/pizzas/pizzas_doces/morango/doce3.jpg"
+            ]
+        }
+    ],
+    "SemAlcool": [
+        {
+            "id": 1,
+            "nome": "Limonata",
+            "valor": "12,00",
+            "descricao": "Limonada fresca feita com limões sicilianos, água com gás e um toque de hortelã.",
+            "logo": "pizzaria/icones/bebidas/sem_alcool/bebida1.jpg",
+            "imgs": [
+                "pizzaria/fotos_cardapio/bebidas/sem_alcool/limonata/bebida1.jpeg",
+                "pizzaria/fotos_cardapio/bebidas/sem_alcool/limonata/bebida2.jpeg",
+                "pizzaria/fotos_cardapio/bebidas/sem_alcool/limonata/bebida3.jpeg"
+            ]
+        },
+        {
+            "id": 2,
+            "nome": "Aranciata",
+            "valor": "12,00",
+            "descricao": "Refrigerante natural de laranja, leve e refrescante.",
+            "logo": "pizzaria/icones/bebidas/sem_alcool/bebida2.jpg",
+            "imgs": [
+                "pizzaria/fotos_cardapio/bebidas/sem_alcool/aranciata/bebida1.jpeg",
+                "pizzaria/fotos_cardapio/bebidas/sem_alcool/aranciata/bebida2.jpeg",
+                "pizzaria/fotos_cardapio/bebidas/sem_alcool/aranciata/bebida3.jpeg"
+            ]
+        },
+        {
+            "id": 3,
+            "nome": "Água Mineral",
+            "valor": "6,00",
+            "descricao": "Água mineral natural ou com gás.",
+            "logo": "pizzaria/icones/bebidas/sem_alcool/bebida3.jpg",
+            "imgs": [
+                "pizzaria/fotos_cardapio/bebidas/sem_alcool/agua/bebida1.jpeg",
+                "pizzaria/fotos_cardapio/bebidas/sem_alcool/agua/bebida2.jpeg",
+                "pizzaria/fotos_cardapio/bebidas/sem_alcool/agua/bebida3.jpeg"
+            ]
+        },
+        {
+            "id": 4,
+            "nome": "Refrigerantes",
+            "valor": "8,00",
+            "descricao": "Coca-Cola, Coca-Cola Zero, Fanta e Sprite.",
+            "logo": "pizzaria/icones/bebidas/sem_alcool/bebida4.jpg",
+            "imgs": [
+                "pizzaria/fotos_cardapio/bebidas/sem_alcool/refrigerantes/bebida1.jpeg",
+                "pizzaria/fotos_cardapio/bebidas/sem_alcool/refrigerantes/bebida2.jpeg",
+                "pizzaria/fotos_cardapio/bebidas/sem_alcool/refrigerantes/bebida3.jpeg"
+            ]
+        }
+    ],
+    "Cervejas": [
+        {
+            "id": 1,
+            "nome": "Peroni Nastro Azzurro",
+            "valor": "15,00",
+            "descricao": "Cerveja lager italiana, leve e refrescante.",
+            "logo": "pizzaria/icones/bebidas/cervejas/bebida1.jpg",
+            "imgs": [
+                "pizzaria/fotos_cardapio/bebidas/cervejas/peroni/bebida1.jpeg",
+                "pizzaria/fotos_cardapio/bebidas/cervejas/peroni/bebida2.jpeg",
+                "pizzaria/fotos_cardapio/bebidas/cervejas/peroni/bebida3.jpeg"
+            ]
+        },
+        {
+            "id": 2,
+            "nome": "Birra Moretti",
+            "valor": "16,00",
+            "descricao": "Cerveja lager tradicional italiana, com sabor suave e equilibrado.",
+            "logo": "pizzaria/icones/bebidas/cervejas/bebida2.jpg",
+            "imgs": [
+                "pizzaria/fotos_cardapio/bebidas/cervejas/birra/bebida1.jpeg",
+                "pizzaria/fotos_cardapio/bebidas/cervejas/birra/bebida2.jpeg",
+                "pizzaria/fotos_cardapio/bebidas/cervejas/birra/bebida3.jpeg"
+            ]
+        }
+    ],
+    "Coqueteis": [
+        {
+            "id": 1,
+            "nome": "Aperol Spritz",
+            "valor": "25,00",
+            "descricao": "Aperol, prosecco e um toque de água com gás, servido com gelo e uma fatia de laranja.",
+            "logo": "pizzaria/icones/bebidas/coqueteis/bebida1.jpg",
+            "imgs": [
+                "pizzaria/fotos_cardapio/bebidas/coqueteis/aperol/bebida1.jpeg",
+                "pizzaria/fotos_cardapio/bebidas/coqueteis/aperol/bebida2.jpeg",
+                "pizzaria/fotos_cardapio/bebidas/coqueteis/aperol/bebida3.jpeg"
+            ]
+        },
+        {
+            "id": 2,
+            "nome": "Negroni",
+            "valor": "28,00",
+            "descricao": "Gin, Campari e vermute doce, servido com gelo e uma rodela de laranja.",
+            "logo": "pizzaria/icones/bebidas/coqueteis/bebida2.webp",
+            "imgs": [
+                "pizzaria/fotos_cardapio/bebidas/coqueteis/negroni/bebida1.jpeg",
+                "pizzaria/fotos_cardapio/bebidas/coqueteis/negroni/bebida2.jpeg",
+                "pizzaria/fotos_cardapio/bebidas/coqueteis/negroni/bebida3.jpeg"
+            ]
+        },
+        {
+            "id": 3,
+            "nome": "Bellini",
+            "valor": "26,00",
+            "descricao": "Prosecco e purê de pêssego, uma combinação clássica e refrescante.",
+            "logo": "pizzaria/icones/bebidas/coqueteis/bebida3.jpg",
+            "imgs": [
+                "pizzaria/fotos_cardapio/bebidas/coqueteis/bellini/bebida1.jpeg",
+                "pizzaria/fotos_cardapio/bebidas/coqueteis/bellini/bebida2.jpeg",
+                "pizzaria/fotos_cardapio/bebidas/coqueteis/bellini/bebida3.jpeg"
+            ]
+        }
+    ]
+}
