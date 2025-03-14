@@ -15,10 +15,15 @@ O **Menu Digital** é uma solução desenvolvida para restaurantes que desejam m
 
 ## Links Para Acessar o Projeto
 
+Cardápio para Hambúrgueria:<br>
 https://codewaves.com.br/hamburgueria/ <br>
+Cardápio para Restaurante Italiano - Layout Preto e Branco:<br>
 https://codewaves.com.br/cardapio-italiano/ <br>
+Cardápio para Restaurante Italiano - Layout Colorido:<br>
 https://codewaves.com.br/cardapio-italiano-colorido/ <br>
+Cardápio para Restaurante Japonês:<br>
 https://codewaves.com.br/cardapio-japa/ <br>
+Cardápio para Pizzaria:<br>
 https://codewaves.com.br/cardapio-pizzaria/ <br>
 
 ## Funcionalidades
@@ -27,10 +32,11 @@ https://codewaves.com.br/cardapio-pizzaria/ <br>
 ![cardapio-pizzaria-card](https://github.com/user-attachments/assets/8012e6a6-1c76-4592-a855-8abcc8bc1152)
 
 - Exibição de cardápios digitais interativos.
-- Possibilidade de alteração de nome, descrição e preço dos itens.
-- Adição de imagens dos pratos.
-- Links personalizados para itens do cardápio.
-- Layout responsivo e intuitivo para melhor experiência do usuário.
+- Sistema de cards, onde ao clicar no prato, é possível visualizar imagens detalhadas da comida.
+- Edição completa: altere o nome, descrição e preço dos itens de forma fácil e rápida.
+- Adição de imagens para destacar seus pratos e atrair mais clientes.
+- Links personalizados para redirecionamento de itens do cardápio.
+- Layout responsivo e intuitivo, garantindo uma experiência fluida tanto em dispositivos móveis quanto em desktops.
 
 
 ## Contato
