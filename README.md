@@ -10,7 +10,7 @@ O **Menu Digital** é uma solução desenvolvida para restaurantes que desejam m
 - **CSS3**
 - **JavaScript**
 - **Tailwind CSS**
-- **jQuery (para carousel de imagens)**
+- **jQuery (para carrossel de imagens)**
 - **React (em desenvolvimento)**
 
 ## Links Para Acessar o Projeto
