@@ -1,0 +1,252 @@
+{
+  "lanches": [
+    {
+      "id": 1,
+      "name": "SPARK",
+      "ingredientes": [
+        "Pão de hambúrguer",
+        "Hambúrguer de carne bovina",
+        "Queijo",
+        "Maionese",
+        "Ketchup",
+        "Mostarda"
+      ],
+      "preco": 36.00,
+      "imagem": "./database/img/lanches/lanche1.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "VEGANICE",
+      "ingredientes": [
+        "Pão vegano",
+        "Hambúrguer vegano (feito com leguminosas)",
+        "Queijo vegano (feito de castanhas, soja)",
+        "Alface",
+        "Tomate",
+        "Pepino",
+       " Maionese vegana",
+        "Ketchup",
+        "Mostarda",
+        "Cebola roxa",
+        "Picles",
+        "Abacate fatiado"
+      ],
+      "preco": 44,
+       "imagem": "./database/img/lanches/lanche2.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "X-FRANGÃO",
+      "ingredientes": [
+       " Filé de frango empanado",
+       " Queijo (opcional; pode ser cheddar ou prato)",
+        "Alface",
+       " Tomate",
+      "  Maionese",
+       " Ketchup",
+       " Mostarda",
+      "  Cebola roxa (opcional)",
+        "Picles (opcional)"
+      ],
+      "preco": 36,
+       "imagem": "./database/img/lanches/lanche3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "X-TUDÃO",
+      "ingredientes": [
+        "Pão de hambúrguer",
+        "Hambúrguer de carne bovina",
+        "Queijo (cheddar ou prato)",
+        "Bacon",
+        "Presunto",
+        "Ovo frito",
+        "Alface",
+        "Tomate",
+        "Maionese",
+        "Ketchup",
+        "Mostarda",
+        "Pão de hambúrguer",
+        "Filé de frango grelhado",
+        "Queijo (cheddar ou prato)",
+        "Alface",
+        "Tomate",
+        "Maionese",
+        "Ketchup",
+        "Mostarda"
+      ],
+      "preco": 46,
+      "imagem": "./database/img/lanches/lanche6.jpg"
+    },
+    {
+      "id": 5,
+      "name": "X-FAZENDA",
+      "ingredientes": [
+        "Pão de brioche artesanal",
+        "Hambúrguer de carne bovina grelhado)",
+        "Queijo gouda derretido",
+        "Bacon crocante",
+        "Molho de maionese caseira",
+        "Folhas de alface americana ",
+        "Tomate caqui em fatias ",
+        "Picles de pepino artesanal",
+        "Anel de cebola empanado crocante",
+        "Molho barbecue defumado",
+        "Cebola roxa caramelizada"
+      ],
+      "preco": 44,
+      "imagem": "./database/img/lanches/lanche4.jpg"
+    },
+    {
+      "id": 6,
+      "name": "X-MEDITERRANEO",
+      "ingredientes": [
+        "Pão vegano integral",
+        "Hambúrguer de grão-de-bico e quinoa grelhado",
+        "Queijo vegano derretido",
+        "Homus de beterraba",
+        "Folhas de rúcula fresca",
+        "Tomate seco",
+        "Abobrinha grelhada",
+        "Berinjela grelhada",
+        "Molho de tahine com limão",
+        "Cebola roxa em fatias finas",
+        "Azeitonas pretas fatiadas"
+      ],
+      "preco": 200,
+     "imagem": "./database/img/lanches/lanche5.jpg"
+    }
+  ],
+  "porcoes":[
+    {
+      "id":1,
+      "nome":"Porção de Cebola",
+      "preco":"36,00",
+      "descricao":"Anéis de cebola crocantes e dourados, empanados à mão e fritos até a perfeição, perfeitos para compartilhar",
+      "imagem": "./database/img/porcao/porcao1.avif"
+    },
+    {
+      "id":2,
+      "nome":"Porção de Batatas",
+      "preco":"29,00",
+      "descricao":"Porção de batatas canoas, assadas e temperadas com azeite e sal.",
+      "imagem": "./database/img/porcao/porcao3.jpg"
+    },
+    {
+      "id":3,
+      "nome":"Porção de Peixe",
+      "preco":"39,00",
+      "descricao":"Deliciosos filés de peixe empanados à mão, fritos até atingirem a crocância perfeita, ideais para compartilhar",
+      "imagem": "./database/img/porcao/porcao4.jpg"
+    },
+    {
+      "id":4,
+      "nome":"Fritada",
+      "preco":"30,00",
+      "descricao":"Generosa porção de batata frita acompanhada de suculentos pedaços de frango empanado",
+      "imagem": "./database/img/porcao/porcao5.jpg"
+    },
+    {
+      "id":5,
+      "nome":"Frango em Tiras",
+      "preco":"29,00",
+      "descricao":"Fatias de frangos epanados e crocontes, servidas com limão",
+      "imagem": "./database/img/porcao/porcao6.jpg"
+    },
+    {
+      "id":6,
+      "nome":"Polenta Frita",
+      "preco":"29,00",
+      "descricao":"Palitos de polenta frita, crocantes por fora e macios por dentro, servidos com queijo parmesão ralado.",
+      "imagem": "./database/img/porcao/porcao2.jpg"
+    }
+  ],
+  "bebidas":[
+    {
+      "id": 1,
+      "nome": "Coca-Cola",
+      "preco": "6,00",
+      "descricao": "Refrigerante clássico, refrescante e cheio de sabor.",
+      "imagem": "./database/img/bebidas/bebida1.jpeg"
+    },
+    {
+      "id": 2,
+      "nome": "Sprite",
+      "preco": "6,00",
+      "descricao": "Refrigerante de limão, leve e refrescante, perfeito para qualquer ocasião.",
+      "imagem": "./database/img/bebidas/bebida2.jpeg"
+    },
+    {
+      "id": 3,
+      "nome": "Suco de Laranja",
+      "preco": "8,00",
+      "descricao": "Suco natural de laranja, feito na hora, cheio de vitamina C e sabor.",
+      "imagem": "./database/img/bebidas/bebida3.jpg"
+    },
+    {
+      "id": 4,
+      "nome": "Água Mineral",
+      "preco": "4,00",
+      "descricao": "Água mineral pura e refrescante, ideal para hidratação.",
+      "imagem": "./database/img/bebidas/bebida4.jpg"
+    },
+    {
+      "id": 5,
+      "nome": "Chá Gelado",
+      "preco": "7,00",
+      "descricao": "Chá gelado com limão, perfeito para refrescar nos dias quentes.",
+      "imagem": "./database/img/bebidas/bebida5.jpg"
+    },
+    {
+      "id": 6,
+      "nome": "Caipirinha",
+      "preco": "15,00",
+      "descricao": "Tradicional caipirinha brasileira, feita com limão, açúcar e cachaça.",
+      "imagem": "./database/img/bebidas/bebida6.jpg"
+    }
+  ],
+  "sobremesas":[
+    {
+      "id": 1,
+      "nome": "Pudim de Leite",
+      "preco": "12,00",
+      "descricao": "Delicioso pudim de leite condensado, com calda de caramelo.",
+      "imagem": "./database/img/sobremesas/sobremesa1.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "Torta de Limão",
+      "preco": "15,00",
+      "descricao": "Torta crocante com recheio cremoso de limão e cobertura de merengue.",
+      "imagem": "./database/img/sobremesas/sobremesa2.jpg"
+    },
+    {
+      "id": 3,
+      "nome": "Mousse de Chocolate",
+      "preco": "14,00",
+      "descricao": "Mousse de chocolate ao leite, suave e aerada, perfeita para os amantes de chocolate.",
+      "imagem": "./database/img/sobremesas/sobremesa3.jpg"
+    },
+    {
+      "id": 4,
+      "nome": "Cheesecake de Morango",
+      "preco": "18,00",
+      "descricao": "Cheesecake cremoso com cobertura de morango fresco.",
+      "imagem": "./database/img/sobremesas/sobremesa4.jpg"
+    },
+    {
+      "id": 5,
+      "nome": "Sorvete de Baunilha",
+      "preco": "10,00",
+      "descricao": "Sorvete de baunilha artesanal, cremoso e refrescante.",
+      "imagem": "./database/img/sobremesas/sobremesa5.jpg"
+    },
+    {
+      "id": 6,
+      "nome": "Brownie com Sorvete",
+      "preco": "20,00",
+      "descricao": "Brownie de chocolate quente servido com sorvete de baunilha.",
+      "imagem": "./database/img/sobremesas/sobremesa6.jpg"
+    }
+  ]
+}
